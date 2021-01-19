@@ -96,7 +96,7 @@ sections:
   category: ''
 - type: cta_section
   template: cta_section
-  title: Succ
+  title: This is a CTA
   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
     quis lorem malesuada luctus.
   actions:
